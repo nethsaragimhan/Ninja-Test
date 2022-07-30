@@ -5,7 +5,7 @@
 		"whatsapp",
 		"bot"
 	],
-	"repository": "https://github.com/raganork-ind/whatsapp-bot",
+	"repository": "https://github.com/nethsaragimhan/Ninja-Test",
 	"stack": "container",
     "env": { 
         "HANDLERS": {
