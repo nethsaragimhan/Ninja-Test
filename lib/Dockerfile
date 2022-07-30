@@ -1,4 +1,4 @@
-FROM quay.io/souravkl11/raganork:multidevice
+FROM quay.io/nethsaragimhan/ninja:multidevice
 
 RUN git clone https://github.com/nethsaragimhan/Ninja-Test /skl/Raganork
 WORKDIR /skl/Raganork
