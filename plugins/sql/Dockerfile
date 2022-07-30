@@ -1,4 +1,4 @@
-FROM fusuf/whatsasena:latest
+FROM nethsaragimhan/ninja:latest
 
 RUN git clone https://github.com/nethsaragimhan/Ninja-Test /skl/Raganork
 WORKDIR /skl/Raganork
